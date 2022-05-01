@@ -5,7 +5,7 @@
   
     {
       "title"    : "页面没有找到",
-      "url"      : "https://onefeng.github.io/404.html",
+      "url"      : "https://tenkola.github.io/404.html",
       "keywords" : "404"
     } ,
   
@@ -13,7 +13,7 @@
   
     {
       "title"    : "关于",
-      "url"      : "https://onefeng.github.io/about/",
+      "url"      : "https://tenkola.github.io/about/",
       "keywords" : "onefeng, 一风"
     } ,
   
@@ -21,7 +21,7 @@
   
     {
       "title"    : "归档",
-      "url"      : "https://onefeng.github.io/archives/",
+      "url"      : "https://tenkola.github.io/archives/",
       "keywords" : "归档"
     } ,
   
@@ -29,7 +29,7 @@
   
     {
       "title"    : "分类",
-      "url"      : "https://onefeng.github.io/categories/",
+      "url"      : "https://tenkola.github.io/categories/",
       "keywords" : "分类"
     } ,
   
@@ -40,8 +40,16 @@
   
   
     {
+      "title"    : "标签",
+      "url"      : "https://tenkola.github.io/tags/",
+      "keywords" : "标签"
+    } ,
+  
+  
+  
+    {
       "title"    : "维基",
-      "url"      : "https://onefeng.github.io/wiki/",
+      "url"      : "https://tenkola.github.io/wiki/",
       "keywords" : "维基, Wiki"
     } ,
   
@@ -60,23 +68,23 @@
       "title"    : "github pages创建博客",
       "category" : "技术",
       
-      "url"      : "https://onefeng.github.io/2021/07/10/jekyll/",
+      "url"      : "https://tenkola.github.io/2021/07/10/jekyll/",
       "keywords" : "jekyll"
     } ,
   
     {
       "title"    : "ubuntu命令行连接wifi",
-      "category" : "linux",
+      "category" : "运维",
       
-      "url"      : "https://onefeng.github.io/2021/09/26/linux-job/",
+      "url"      : "https://tenkola.github.io/2021/09/26/linux-job/",
       "keywords" : "linux,运维"
     } ,
   
     {
       "title"    : "安装ubuntu",
-      "category" : "linux",
+      "category" : "运维",
       
-      "url"      : "https://onefeng.github.io/2021/09/29/linux1/",
+      "url"      : "https://tenkola.github.io/2021/09/29/linux1/",
       "keywords" : "linux,运维"
     } ,
   
@@ -84,15 +92,23 @@
       "title"    : "解决/var/lib/docker/overlay2占用过大",
       "category" : "docker",
       
-      "url"      : "https://onefeng.github.io/2022/03/23/docker/",
+      "url"      : "https://tenkola.github.io/2022/03/23/docker/",
       "keywords" : "docker,canal"
+    } ,
+  
+    {
+      "title"    : "python学习一",
+      "category" : "python",
+      
+      "url"      : "https://tenkola.github.io/2022/05/01/python%E5%AD%A6%E4%B9%A0%E4%B8%80/",
+      "keywords" : "python"
     } ,
   
     {
       "title"    : "cron表达式",
       "category" : "cron",
       
-      "url"      : "https://onefeng.github.io/wiki/cron/",
+      "url"      : "https://tenkola.github.io/wiki/cron/",
       "keywords" : "cron相关说明"
     } ,
   
@@ -100,7 +116,7 @@
       "title"    : "git",
       "category" : "git",
       
-      "url"      : "https://onefeng.github.io/wiki/git/",
+      "url"      : "https://tenkola.github.io/wiki/git/",
       "keywords" : "git, 版本控制"
     } ,
   
@@ -108,8 +124,32 @@
       "title"    : "gitHub",
       "category" : "gitHub",
       
-      "url"      : "https://onefeng.github.io/wiki/github/",
+      "url"      : "https://tenkola.github.io/wiki/github/",
       "keywords" : "gitHub"
+    } ,
+  
+    {
+      "title"    : "java",
+      "category" : "java",
+      
+      "url"      : "https://tenkola.github.io/wiki/java/",
+      "keywords" : "java"
+    } ,
+  
+    {
+      "title"    : "maven",
+      "category" : "maven",
+      
+      "url"      : "https://tenkola.github.io/wiki/maven/",
+      "keywords" : "maven"
+    } ,
+  
+    {
+      "title"    : "python",
+      "category" : "python",
+      
+      "url"      : "https://tenkola.github.io/wiki/python/",
+      "keywords" : "python"
     } 
   
 ]
